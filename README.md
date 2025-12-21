@@ -1,2 +1,33 @@
-# Bot-Silva---Discord-Bot-para-FiveM
-Bot de Discord em Node.js para automação e moderação voltado a servidores FiveM.
+ 🤖 Bot Silva 2025 — Discord Bot para FiveM
+
+O **Bot Silva 2025** é um bot de Discord desenvolvido em **JavaScript utilizando Node.js**, criado para **automação, moderação e suporte a servidores FiveM**.
+
+O projeto tem como objetivo facilitar o gerenciamento de comunidades, automatizar processos administrativos e melhorar a organização de servidores RP e FiveM.
+
+---
+
+ ✨ Funcionalidades
+
+- ⚙️ Automação de tarefas no Discord
+- 🛡️ Sistema de moderação (mensagens, cargos, ações automáticas)
+- 💬 Respostas automáticas e comandos personalizados
+- 🎮 Integração e suporte para servidores **FiveM**
+- 📊 Auxílio na organização de servidores e comunidades RP
+
+---
+
+ 🛠️ Tecnologias utilizadas
+
+- JavaScript
+- Node.js
+- Discord.js
+- NPM
+
+---
+ 📁 Estrutura do projeto
+/
+├── index.js
+├── package.json
+├── commands/
+├── events/
+└── config/

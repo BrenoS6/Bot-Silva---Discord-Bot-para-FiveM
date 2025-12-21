@@ -31,8 +31,18 @@ O projeto tem como objetivo facilitar o gerenciamento de comunidades, automatiza
 ├── commands/
 ├── events/
 └── config/
-## 🚀 Como utilizar
+ 🚀 Como utilizar
 
 1. Clone o repositório:
-```bash
-git clone https://github.com/BrenoS6/Bot-Silva---Discord-Bot-para-FiveM.git
+
+git clone https://github.com/BrenoS6/Bot-Silva---Discord-Bot-para-FiveM.git```
+
+📌 Status do projeto
+
+🚧 Em desenvolvimento  
+Novas funcionalidades serão adicionadas futuramente.
+
+⚠️ Aviso
+
+Este bot não possui vínculo oficial com a Discord Inc. ou FiveM.
+

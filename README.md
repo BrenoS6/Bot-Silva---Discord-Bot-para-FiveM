@@ -1,4 +1,4 @@
- 🤖 Bot Silva 2025 — Discord Bot para FiveM
+ 🤖 Bot Silva 2025 — Discord Bot FiveM
 
 O **Bot Silva 2025** é um bot de Discord desenvolvido em **JavaScript utilizando Node.js**, criado para **automação, moderação e suporte a servidores FiveM**.
 
